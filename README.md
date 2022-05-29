@@ -1,6 +1,6 @@
 # movies-app
 
-Budget list application (https://arnurarykbaev.github.io/budgetList-Application/)
+Budget list application (https://arnurarykbaev.github.io/topMoviesList-Application/)
 
 * The project is written in vue 2, with vuex plugin and eslint.
 * The front side is made using Bootstrap VUE.
