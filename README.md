@@ -1,24 +1,8 @@
 # movies-app
 
-## Project setup
-```
-npm install
-```
+Budget list application (https://arnurarykbaev.github.io/budgetList-Application/)
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+* The project is written in vue 2, with vuex plugin and eslint.
+* The front side is made using Bootstrap VUE.
+* The request to the server goes page by page.
+* Also you can find the movie you want in the search bar
